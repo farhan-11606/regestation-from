@@ -8,16 +8,16 @@ To run this project locally:
 
 Clone this repository:
 
-git clone https://github.com/farhan-11606/regestation-from.git
+      git clone https://github.com/farhan-11606/regestation-from.git
 
 Navigate to the project for:
 
-cd regestation-from
+     cd regestation-from
 
 
 Open index.html in your browser:
 
-start index.html # Windows
-open index.html  # macOS
-xdg-open index.html # For Linux
+     start index.html # Windows
+     open index.html  # macOS
+     xdg-open index.html # For Linux
 
